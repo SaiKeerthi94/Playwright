@@ -56,7 +56,7 @@
 
         let text = await element.textContent()
 
-        if (text == "Vasool Mannan"){
+        if (text == "Manithan Deivamagalam"){
 
             await element.click()
             break
